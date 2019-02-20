@@ -1,3 +1,3 @@
 # demo-of-trafficLight
 
-link: https://codepen.io/lucialiuxi/pen/gqyORE/
+click the link to view the result: https://codepen.io/lucialiuxi/pen/gqyORE/
